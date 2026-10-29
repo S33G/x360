@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">Xbox 360</title>
+  <desc id="desc">Original green Xbox-inspired logo mark and Xbox 360 wordmark.</desc>
+  <rect width="760" height="180" rx="24" fill="#111820"/>
+  <circle cx="96" cy="90" r="58" fill="#107c10"/>
+  <path d="M62 49c13 1 25 9 34 18 10-9 22-17 35-18-7 13-16 25-27 35 13 18 21 36 24 51-13-8-24-21-32-36-9 15-20 28-33 36 3-15 11-33 24-51-11-10-20-22-25-35Z" fill="#fff"/>
+  <text x="180" y="104" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1">XBOX 360</text>
+  <text x="184" y="137" fill="#9ba6b2" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4">NAND RESEARCH TOOLKIT</text>
+</svg>

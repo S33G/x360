@@ -1,0 +1,40 @@
+# Local dependencies and build output
+node_modules/
+dist/
+coverage/
+.cache/
+.DS_Store
+
+# Private console images, extracts, keys, and generated reports
+*.bin
+*.nand
+*.dump
+*.img
+*.iso
+*.ecc
+*.xbe
+*.xex
+*.vhd
+*.vhdx
+*.log
+cpukey*
+dvdkey*
+keyvault*
+fuses.txt
+Extracts*/
+extracts*/
+extracted/
+private/
+local/
+outputs/
+artifacts/
+*-report.json
+*-report.txt
+
+# Personal credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
